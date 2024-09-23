@@ -73,8 +73,8 @@ work:
     company_name: AT&T Lab
     company_url: ''
     company_logo: ''
-    date_start: 2024-06
-    date_end: 2024-08
+    date_start: 2024-06-10
+    date_end: 2024-08-16
     summary: |2-
       Responsibilities include:
       - Explored various Generative AI models including Generative Adversarial Network (GAN), Diffusion Models, Transformer-based Models, Large Language Models (LLM) for Time Series forecasting problems.
@@ -84,8 +84,8 @@ work:
     company_name: National Renewable Energy Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2023-07
-    date_end: 2023-08
+    date_start: 2023-07-10
+    date_end: 2023-08-11
     summary: |
       Responsibilities include:
       - Investigated Optimal Transmission Switching problems with the AI, Learning & Intelligent Systems Group at NREL.
