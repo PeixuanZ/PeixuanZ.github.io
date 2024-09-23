@@ -94,8 +94,8 @@ work:
       - Publication ’ACOPF Transmission Switching Using Open-Source’ accepted by 2024 IEEE PES General Meeting.
   - position: Survey Reseaercher intern
     company_name: Public Health Department of Hennepin County
-    date_start: 2020-01
-    date_end: 2020-07
+    date_start: 2020-01-21
+    date_end: 2020-07-21
     summary: |
       Responsibilties include:
       - Provided an independent evaluation of non-response bias in a survey analysis of the SHAPE project, a population health data survey program to improve community health and achieve health equity for the community.
