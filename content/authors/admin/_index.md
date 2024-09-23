@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang, Peixuan(张佩璇)
+title: Zhang, Peixuan
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=_tPmPlIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -54,10 +54,7 @@ education:
     date_start: 2020-08-20
     date_end: 2025-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      I primarily focus on stochastic, convex, and nonsmooth optimization, aiming to develop more efficient algorithms.
   - area: MS Statistics
     institution: University of Minnesota
     date_start: 2017-09-01
@@ -66,43 +63,45 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Statistical Learning, Probability Theory, Statistical computing
   - area: BSc Mathematics
     institution: Dalian University of Technology
     date_start: 2013-09-01
     date_end: 2017-05-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PhD research intern
+    company_name: AT&T Lab
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-06
+    date_end: 2024-08
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Explored various Generative AI models including Generative Adversarial Network (GAN), Diffusion Models, Transformer-based Models, Large Language Models (LLM) for Time Series forecasting problems.
+      - Implemented Generative AI models for univariate and multivariate time series forecasting using large datasets.
+      - Practical coding experience utilizing Snowflake and Databricks for data management and analytics.
+  - position: PhD research intern
+    company_name: National Renewable Energy Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07
+    date_end: 2023-08
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Investigated Optimal Transmission Switching problems with the AI, Learning & Intelligent Systems Group at NREL.
+      - Built benchmarking models for Mixed Integer Nonlinear Problems in Julia with HPC system.
+      - Compared different MINLP solvers including BOMIN, COUENNE, SHOT, Juniper on instances from PGlib.
+      - Publication ’ACOPF Transmission Switching Using Open-Source’ accepted by 2024 IEEE PES General Meeting.
+  - position: Survey Reseaercher intern
+    company_name: Public Health Department of Hennepin County
+    date_start: 2020-01
+    date_end: 2020-07
+    summary: |
+      Responsibilties include:
+      - Provided an independent evaluation of non-response bias in a survey analysis of the SHAPE project, a population health data survey program to improve community health and achieve health equity for the community.
+      - Conducted data analysis on over 11,143 survey responses and estimated the non-response bias by using R and SPSS.
+      - Improved the survey design for corresponding SHAPE project efforts by supplementing questionnaire enhancements for production of higher quality quantitative data.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -129,11 +128,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: dog
+      - name: Travel
         description: ''
         percent: 80
         icon: camera
@@ -142,42 +141,22 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Cantonese
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Dal Pezzo-Marcus Fellowship
+    awarder: IME department, Penn State University
+    icon: school
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I am honored to have received the Dal Pezzo-Marcus Fellowship from the Industrial and Manufacturing Department at Penn State, which supports my PhD research in stochastic optimization. I would like to extend my sincere thanks to my advisor, Dr. Uday Shanbhag, and our department dean, Dr. Steven Landry, for their guidance and support
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peixuan is a Phd student at Penn State University, working with Dr. Uday V. Shanbhag. She is a driven, passionate, and hard-working Ph.D. student conducting multiple research projects on Stochastic Optimization, Convex optimization and Machine Learning.
