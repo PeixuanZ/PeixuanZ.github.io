@@ -1,31 +1,31 @@
 ---
-title: Example Talk
+title: Stochastic Augmented Lagrangian Framework for nonsmooth convex optimization problems
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: INFORMS 2024 
+event_url: https://meetings.informs.org/wordpress/seattle2024/
 
-location: Hugo Blox Builder HQ
+location: Seattle
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 900 Pine St
+  city: Seattle
+  region: WA
+  postcode: '98101'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: We developed a stochastic smoothed Augmented Lagrangian scheme for resoving nonsmooth convex opitmization problems with convergence guarantees.
+abstract: 'Motivated by the need to develop simulation optimization methods for more general problem classes, we consider a convex stochastic optimization problem where both the objective and constraints are convex but possibly complicated by uncertainty and nonsmoothness. We present a smoothed sampling-enabled augmented Lagrangian framework that relies on inexact solutions to the AL subproblem, obtainable via a stochastic approximation framework. Under a constant penalty parameter, it is shown that the dual suboptimality diminishes at a rate of $\mathcal{O}(1/K)$ while primal infeasibility and suboptimality both diminish at a rate of $\mathcal{O}(1/\sqrt{K})$. Lastly, we show the flexibility of the framework in accommodating compositional convex constraints and weakly convex objectives.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-21T13:00:00Z'
+date_end: '2024-10-21T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-12-12T00:00:00Z'
 
 authors:
-  - admin
+  - admin, Uday V. Shanbhag
 
 tags: []
 
@@ -43,8 +43,8 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
