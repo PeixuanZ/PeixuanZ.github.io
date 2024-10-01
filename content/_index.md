@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am currently a research assistant under Dr. Uday V. Shanbhag, focusing on stochastic optimization, convex optimization, and chance-constrained optimization, with the goal of developing more efficient algorithms with convergence guarantees. I am honored to be a recipient of the Dal Pezzo-Marcus Fellowship, awarded by the Industrial and Manufacturing Department at Penn State University, which supports my PhD research. Additionally, I have a strong interest in the development of generative AI models, particularly for applications in text generation and time series forecasting.
         
         Please reach out to collaborate 😃
     design:
