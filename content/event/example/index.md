@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Stochastic Augmented Lagrangian Framework for nonsmooth convex optimization problems
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
