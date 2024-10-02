@@ -1,7 +1,7 @@
 ---
 title: Stochastic Augmented Lagrangian Framework for nonsmooth convex optimization problems
 
-event: example 
+event: Informs
 event_url: https://meetings.informs.org/wordpress/seattle2024/
 
 location: Seattle
