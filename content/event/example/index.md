@@ -1,7 +1,7 @@
 ---
 title: Stochastic Augmented Lagrangian Framework for nonsmooth convex optimization problems
 
-event: INFORMS 2024 
+event: example 
 event_url: https://meetings.informs.org/wordpress/seattle2024/
 
 location: Seattle
@@ -58,8 +58,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects =[]
 ---
 
 {{% callout note %}}
