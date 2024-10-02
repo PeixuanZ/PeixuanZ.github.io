@@ -63,7 +63,9 @@ projects:
 ---
 
 {{% callout note %}}
-Feel free to stop by at my talk. 
+Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
+
+Slides can be added in a few ways:
 
 
