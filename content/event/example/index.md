@@ -12,8 +12,8 @@ address:
   postcode: '98101'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A new Stochastic AL scheme for resolving nonsmooth stochastic convex optimization problems
+abstract: 'Motivated by the need to develop simulation optimization methods for more general problem classes, we consider a convex stochastic optimization problem where both the objective and constraints are convex but possibly complicated by uncertainty and nonsmoothness. We present a smoothed sampling-enabled augmented Lagrangian framework that relies on inexact solutions to the AL subproblem, obtainable via a stochastic approximation framework. Under a constant penalty parameter, it is shown that the dual suboptimality diminishes at a rate of $\mathcal{O}(1/K)$ while primal infeasibility and suboptimality both diminish at a rate of $\mathcal{O}(1/\sqrt{K})$. Lastly, we show the flexibility of the framework in accommodating compositional convex constraints and weakly convex objectives.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
