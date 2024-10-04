@@ -1,15 +1,15 @@
 ---
-title: Example Talk
+title: Stochastic Augmented Lagrangian Framework for nonsmooth convex optimization problems
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: example
+event_url: https://meetings.informs.org/wordpress/seattle2024/
 
-location: Hugo Blox Builder HQ
+location: Seattle
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 900 Pine St
+  city: Seattle
+  region: WA
+  postcode: '98101'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
