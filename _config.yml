@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Peixuan Zhang / Site Title"
+title                    : "Peixuan Zhang / Operations Research & Machine Learning"
 title_separator          : "-"
 name                     : &name "Peixuan Zhang"
 description              : &description "Peixuan Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Selfie.jpg"
   name             : "Peixuan Z"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student at Penn State University"
   location         : "Earth"
   employer         : "Penn State University"
   uri              : # URL
